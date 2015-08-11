@@ -1,5 +1,7 @@
 # Angular Express Seed
 
+NOTE: Updated to the latest packages and fixed the errors found in btford's latest version (50ba978e1e5105a60e3fc486f05a3b08c45fe3a2). Up to date as of Aug 2015.
+
 Start an awesome app with AngularJS on the front, Express + Node on the back. This project is an
 application skeleton for a typical [AngularJS](http://angularjs.org/) web app for those who want
 to use Node to serve their app.
